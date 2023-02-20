@@ -24,6 +24,6 @@ public class VendingMachine {
         //Commit 3: Choose an option/and confirm purchase 
 
         //Commit 4: Process it 
-
+        
     }
 }
